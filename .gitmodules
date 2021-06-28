@@ -1,0 +1,8 @@
+[submodule "Sahayam-API"]
+	path = Sahayam-API
+	url = git@github.com:atishekk/Sahayam-API.git
+	branch = main
+[submodule "Sahayam-UI"]
+	path = Sahayam-UI
+	url = git@github.com:atishekk/Sahayam-UI.git
+	branch = main
