@@ -1,6 +1,6 @@
 # Sahayam
 
-> **_Connecting to help made Simpler_**
+> **_Connecting to help made simpler_**
 
 An all in one solution to bridge the gap between the ones in **need of help** and the ones **willing to help**.
 
